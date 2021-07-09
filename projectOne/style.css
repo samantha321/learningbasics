@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    border: 4px solid rgb(209, 197, 197);
+    padding: 20px;
+}
+.header-container{
+    color:#fff;
+    background-color: rgb(31, 117, 31);
+    padding: 15px;
+}
+.content-paragraph{
+    border: 1px solid rgb(97, 84, 84);
+    background-color: rgb(211, 197, 197);
+    padding: 20px;
+    margin: 15px 0;
+}
+.content-paragraph > p{
+    text-align: center;
+}

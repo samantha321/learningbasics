@@ -1,0 +1,41 @@
+/* element selector */
+h1{   
+    color: red;
+}
+
+p {
+    color: blue;
+}
+
+/* id selector */
+#text{
+    color: black;
+}
+/* class celector */
+.text{
+    color: blue;
+}
+.text-border{
+    border: 2px solid gold;
+}
+.text-margins{
+    /* all sides */
+    margin: 25px; 
+
+    /* (top, bottom) (left right) */
+    /* margin: 25px 10px; */
+
+    /* indivudual */
+    /* margin: 10px 10px 10px 10px ; */
+}
+.text-padding{
+    padding: 25px;
+}
+.text-grey{
+    height:50px;
+    widows: 20px;
+    
+}
+.text-true{
+    color: brown;
+}
